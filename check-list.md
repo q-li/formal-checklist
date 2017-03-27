@@ -1,29 +1,29 @@
-- [ ] Christ's College
+- [x] Christ's College
 - [ ] Churchill College
-- [ ] Clare College
+- [x] Clare College
 - [ ] Clare Hall
 - [ ] Corpus Christi College
 - [ ] Darwin College
-- [ ] Downing College
+- [x] Downing College
 - [ ] Emmanuel College
-- [ ] Fitzwilliam College
+- [x] Fitzwilliam College
 - [ ] Girton College
 - [ ] Gonville & Caius College
 - [ ] Homerton College
 - [ ] Hughes Hall
 - [ ] Jesus College
-- [ ] King's College
+- [x] King's College
 - [ ] Lucy Cavendish College
 - [ ] Magdalene College
-- [ ] Murray Edwards College
+- [x] Murray Edwards College
 - [ ] Newnham College
 - [ ] Pembroke College
 - [ ] Peterhouse
-- [ ] Queens' College
-- [ ] Robinson College
+- [x] Queens' College
+- [x] Robinson College
 - [ ] Selwyn College
 - [ ] Sidney Sussex College
-- [ ] St Catharine's College
+- [x] St Catharine's College
 - [ ] St Edmund's College
 - [ ] St John's College
 - [ ] Trinity College
