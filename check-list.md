@@ -16,7 +16,7 @@
 - [ ] Lucy Cavendish College
 - [ ] Magdalene College
 - [x] Murray Edwards College
-- [ ] Newnham College
+- [x] Newnham College
 - [ ] Pembroke College
 - [ ] Peterhouse
 - [x] Queens' College
