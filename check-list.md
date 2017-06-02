@@ -3,7 +3,7 @@
 - [x] Clare College
 - [ ] Clare Hall
 - [ ] Corpus Christi College
-- [ ] Darwin College
+- [x] Darwin College
 - [x] Downing College
 - [ ] Emmanuel College
 - [x] Fitzwilliam College
