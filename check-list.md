@@ -28,4 +28,4 @@
 - [ ] St John's College
 - [ ] Trinity College
 - [ ] Trinity Hall
-- [ ] Wolfson College
+- [x] Wolfson College
