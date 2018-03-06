@@ -18,7 +18,7 @@
 - [x] Murray Edwards College
 - [x] Newnham College
 - [ ] Pembroke College
-- [ ] Peterhouse
+- [x] Peterhouse
 - [x] Queens' College
 - [x] Robinson College
 - [ ] Selwyn College
